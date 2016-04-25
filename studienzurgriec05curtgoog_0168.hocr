@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studienzurgriec05curtgoog_0168.png"; bbox 0 0 3218 4934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 428 1421 994 1576">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 428 1421 994 1576">
+     <span class='ocr_line' id='line_1_1' title="bbox 428 1421 994 1576; baseline 0.004 -23"><span class='ocrx_word' id='word_1_1' title='bbox 428 1421 434 1434; x_wconf 83' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 544 1456 656 1554; x_wconf 70' lang='lat' dir='ltr'><strong>BER</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 672 1457 994 1576; x_wconf 61' lang='lat' dir='ltr'><strong>JGEBRAUOH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 228 1672 1309 2066">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 228 1672 1309 2066">
+     <span class='ocr_line' id='line_1_2' title="bbox 228 1672 1309 1839; baseline 0.002 -5"><span class='ocrx_word' id='word_1_4' title='bbox 228 1702 419 1835; x_wconf 88' lang='lat' dir='ltr'><strong>DER</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 468 1672 1073 1839; x_wconf 60' lang='lat' dir='ltr'>PRAPOSITION</span> <span class='ocrx_word' id='word_1_6' title='bbox 1121 1701 1309 1836; x_wconf 67' lang='lat' dir='ltr'><strong>EYN</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 434 1969 1232 2066; baseline 0.009 -6"><span class='ocrx_word' id='word_1_7' title='bbox 434 1970 485 2061; x_wconf 78' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 519 1970 611 2061; x_wconf 74' lang='lat' dir='ltr'><strong>BER</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 644 1969 1102 2066; x_wconf 77' lang='lat' dir='ltr'><strong>ZUSAMMENSETZUNG.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1229 2035 1232 2052; x_wconf 88' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1614 4934">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1614 4934">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1614 4934; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1614 4934; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
